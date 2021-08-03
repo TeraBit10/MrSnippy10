@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MrSnippy10
+- 👀 I’m interested in Learning bacic code and how to use GitHub
+- 🌱 I’m currently wanting learning Java
+- 💞️ I’m looking to collaborate on projects with AI and Coumputer Learning
+- 📫 How to reach me MrSnippy10@gmail.com
